@@ -5,7 +5,7 @@
 
 body {
 	background-image: url("https://2.bp.blogspot.com/-k7B3NgL-pzk/WBXYhJvGA8I/AAAAAAAAAiY/9YPf9VvkcBwu6MvxXqiSy2_ijhx_gbJLQCLcB/s1600/logo%2Bamikom%2B3.png");
-    height: 100vh;
+    height: 100%;
     background-attachment:fixed;
     z-index: -10;
     background-position: center;
@@ -68,7 +68,7 @@ li {
 	left: 0;
 	right: 0;
 }
-@media (max-width: 800px){
+@media (max-width: 1000px){
 	#footer{
 		padding-top: 150px;
 		padding-bottom: 150px;
