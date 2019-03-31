@@ -68,9 +68,8 @@ li {
 	left: 0;
 	right: 0;
 }
-@media (max-width: 1000px){
-	#footer{
-		padding-top: 150px;
-		padding-bottom: 150px;
-	}
-}
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%;
+    }
+  }
