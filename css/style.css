@@ -64,3 +64,15 @@ li {
 	margin: 20px 0 0;
 	list-style: none;
 }
+
+@media screen and (max-width:680px){
+
+	#maincontent{
+		width: auto;
+		float: none;
+	}
+	#sidebar{
+		width: auto;
+		float: none;
+	}
+}
